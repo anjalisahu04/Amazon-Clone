@@ -232,6 +232,7 @@ ul a{
 }
 .pages a{
     color: white;
+    font-size: 0.0rem;
 }
 .copy-right{
     padding-top: 5px;
